@@ -12,6 +12,8 @@ public class Student {
     @Field
     private Integer age;
 
+    // can add more data types from more test scenarios
+
     public Student(String id, String name, Integer age) {
 
         this.id = id;
