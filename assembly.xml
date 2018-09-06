@@ -1,0 +1,4 @@
+<assembly
+    xmls=""http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2"
+    xmls:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://maven.apache.org/plugin/maven-assembly/1.12
